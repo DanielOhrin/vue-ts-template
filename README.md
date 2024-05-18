@@ -7,3 +7,10 @@ This template should help get you started developing with Vue 3 and TypeScript i
 - [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
 
 - Use [vue-tsc](https://github.com/vuejs/language-tools/tree/master/packages/tsc) for performing the same type checking from the command line, or for generating d.ts files for SFCs.
+
+## Getting Started
+
+1. Clone the repo, cd into it, and execute *npm install* from console
+2. Change the remote connection to your own project's repository      
+3. Search across all files for the keyword *replace*
+4. Replace the areas shown & take it from there!
