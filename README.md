@@ -14,3 +14,6 @@ This template should help get you started developing with Vue 3 and TypeScript i
 2. Change the remote connection to your own project's repository      
 3. Search across all files for the keyword *replace*
 4. Replace the areas shown & take it from there!
+
+#### Optional:
+ - Configure **.prettierrc.json** & **tsconfig.json**
